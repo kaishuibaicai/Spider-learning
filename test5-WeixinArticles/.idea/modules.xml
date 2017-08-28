@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/httpbintest/.idea/httpbintest.iml" filepath="$USER_HOME$/httpbintest/.idea/httpbintest.iml" />
+      <module fileurl="file://$USER_HOME$/quotetutorial/.idea/quotetutorial.iml" filepath="$USER_HOME$/quotetutorial/.idea/quotetutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test5-WeixinArticles.iml" filepath="$PROJECT_DIR$/.idea/test5-WeixinArticles.iml" />
+    </modules>
+  </component>
+</project>
